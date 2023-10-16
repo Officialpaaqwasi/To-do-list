@@ -1,0 +1,17 @@
+
+
+body{
+ background-color: #D3D3D3;
+}
+
+.title{
+ text-decoration: line-through;
+ font-size: 35px;
+ font-family: 'Times New Roman', Times, serif;
+ font-weight: 800;
+ font-style: italic;
+ align-items: center;
+ display: flex;
+ text-align: center;
+
+}
