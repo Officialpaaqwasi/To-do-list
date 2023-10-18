@@ -22,12 +22,13 @@ body{
  position: fixed;
  bottom: 3px;
  background-color: #fff;
- transition: background-color 0.3s;
+ transition: background-color 0.3s ease;
 }
 
-input {
- background-color: #D3D3D3;
+.color-transition {
+ color: #D3D3D3;
 }
+
 
 #input-text::placeholder{
  position: relative;
